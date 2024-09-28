@@ -37,6 +37,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Special thanks to Prof. Manish K. Gupta for guidance throughout the project.
 
 ## Links
+- **Interactive Website Link**: [Website Link](https://pixel-squad.github.io/SC205/)
 - **Google Site**: [Pixel Squad](https://sites.google.com/view/pixelsquad/home)
 - **YouTube Video**: [Project Demonstration](https://www.youtube.com/watch?v=DNBBiRF6WCE)
 - **Documentation**: [Formal Documentation](https://drive.google.com/file/d/1EyBi8PTIrmobWqaX-Ip_SGxQWCUMsnRs/view)
+
