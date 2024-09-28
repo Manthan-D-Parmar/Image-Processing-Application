@@ -35,3 +35,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements
 Special thanks to Prof. Manish K. Gupta for guidance throughout the project.
+
+## Links
+- **Google Site**: [Pixel Squad](https://sites.google.com/view/pixelsquad/home)
+- **YouTube Video**: [Project Demonstration](https://www.youtube.com/watch?v=DNBBiRF6WCE)
+- **Documentation**: [Formal Documentation](https://drive.google.com/file/d/1EyBi8PTIrmobWqaX-Ip_SGxQWCUMsnRs/view)
