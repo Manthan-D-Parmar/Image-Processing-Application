@@ -22,7 +22,7 @@ This project is a web-based image processing application developed as a group pr
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Image-Processing-App.git
+git clone https://github.com/Manthan-D-Parmar/Image-Processing-App.git
 ```
 ## Usage
 Open the project in a web browser and follow the on-screen instructions to start processing images.
